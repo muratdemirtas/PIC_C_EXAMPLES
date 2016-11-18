@@ -1,0 +1,24 @@
+[PROJECT]
+Target=C:\Users\INSPIRE\Desktop\EXPKITS\Projeler\Development Kits\EX8\Firmware\CCS\SERVO\18F4520_SERVO.hex
+Development_Mode=
+Processor_Text=PIC18F4520
+ToolSuite=CCS
+Processor=0x4520
+[C:\Users\INSPIRE\Desktop\EXPKITS\Projeler\Development Kits\EX8\Firmware\CCS\SERVO\18F4520_SERVO]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\INSPIRE\Desktop\EXPKITS\Projeler\Development Kits\EX8\Firmware\CCS\SERVO\18F4520_SERVO.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=C:\Users\INSPIRE\Desktop\EXPKITS\Projeler\Development Kits\EX8\Firmware\CCS\SERVO\18F4520_SERVO
+[Opened Files]
+1=18F4520_SERVO.c
+2=

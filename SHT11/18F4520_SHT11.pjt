@@ -1,0 +1,31 @@
+[PROJECT]
+Target=18F4520_SHT11.hex
+Development_Mode=
+Processor_Text=PIC18F4520
+ToolSuite=CCS
+Processor=0x4520
+[18F4520_SHT11]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=18F4520_SHT11.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=18F4520_SHT11
+[Opened Files]
+1=18F4520_SHT11.c
+2=sht75.c
+3=
+[Documentation]
+Count=1
+1=sht_driver.h
+1T=sht_driver.h
+1E=
+1W=0

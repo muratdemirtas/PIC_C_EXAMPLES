@@ -1,0 +1,24 @@
+[PROJECT]
+Target=18F4520_Joystick.hex
+Development_Mode=
+Processor_Text=PIC18F4520
+ToolSuite=CCS
+Processor=0x4520
+[18F4520_Joystick]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=18F4520_Joystick.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=18F4520_Joystick
+[Opened Files]
+1=18F4520_Joystick.c
+2=
